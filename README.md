@@ -27,3 +27,39 @@ Tic-Tac-Toe is a two-player game where players take turns marking cells in a 3x3
 - Java Development Kit (JDK) installed
 - A Java-compatible IDE or text editor (e.g., Visual Studio Code)
 
+## Usage
+
+Follow these steps to compile and run the TicTacToe game:
+
+### Step 1: Open the Project in Visual Studio Code
+
+1. Open Visual Studio Code.
+2. Navigate to the folder where you have cloned the repository and open it.
+
+### Step 2: Create the Java File
+
+1. In the Explorer sidebar of Visual Studio Code, create a new file named `TicTacToe.java`.
+
+### Step 3: Add the Code
+
+1. Copy the TicTacToe game code (provided in this repository) and paste it into the `TicTacToe.java` file.
+
+### Step 4: Compile the Java Code
+
+1. Open a terminal within Visual Studio Code by selecting `Terminal` > `New Terminal` from the menu.
+2. In the terminal, ensure you are in the directory containing `TicTacToe.java`.
+3. Compile the Java file by running the following command in the terminal:
+    ```sh
+    javac TicTacToe.java
+    ```
+
+### Step 5: Run the Game
+
+1. After compiling, run the game by executing the following command in the terminal:
+    ```sh
+    java TicTacToe
+    ```
+2. Follow the on-screen prompts to play the game. Players will take turns entering their moves by specifying the row and column numbers for their marks (X or O).
+
+Enjoy playing TicTacToe!
+
