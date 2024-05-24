@@ -7,7 +7,6 @@ This is a simple console-based implementation of the classic Tic-Tac-Toe game in
 - [Overview](#overview)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 
 
@@ -50,16 +49,3 @@ Follow these steps to compile and run the TicTacToe game:
 2. In the terminal, ensure you are in the directory containing `TicTacToe.java`.
 3. Compile the Java file by running the following command in the terminal:
     ```sh
-    javac TicTacToe.java
-    ```
-
-### Step 5: Run the Game
-
-1. After compiling, run the game by executing the following command in the terminal:
-    ```sh
-    java TicTacToe
-    ```
-2. Follow the on-screen prompts to play the game. Players will take turns entering their moves by specifying the row and column numbers for their marks (X or O).
-
-Enjoy playing TicTacToe!
-
